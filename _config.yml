@@ -1,0 +1,28 @@
+name: Verkla
+favicon: null
+layout_spectrum: 0.8146571381948888
+typography_spectrum: 0.3832784816622734
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.5869866809807718
+  lightness: 0.2664548782631755
+  saturation: 0.23650822322815657
+  rhythmicContrast: 0.09567679720930755
+purpose: []
